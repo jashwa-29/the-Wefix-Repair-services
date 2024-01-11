@@ -14082,6 +14082,12 @@ fieldset:disabled .btn {
     .test-card{
         margin-bottom: 20px;
     }
+     .hero-heading {
+        width: 100%;
+    }
+    .hero-para {
+        width: 100%;
+    }
 }
 
 @media only screen 
